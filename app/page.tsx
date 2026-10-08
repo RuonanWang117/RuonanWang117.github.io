@@ -57,7 +57,7 @@ const copy = {
     latinName: 'Ruonan Wang',
     role: '中国人民大学 · 计算机科学与技术博士研究生',
     intro:
-      '研究大语言模型、智能体记忆与持续学习、自主规划与工具调用，并将机器学习与人工智能应用于真实行业场景。',
+      '研究大语言模型与强化学习，关注智能体记忆、持续学习、自主规划与工具调用，并将机器学习与人工智能应用于真实行业场景。',
     location: '北京，中国',
     email: '邮件联系',
     publicationsButton: '查看论文',
@@ -241,7 +241,7 @@ const copy = {
     footerEmail: '发送邮件',
     footerNote: 'Designed and built around research, systems and real-world impact.',
     status: '目前关注',
-    statusText: 'Agent Memory · Long-horizon Agents · Applied AI',
+    statusText: 'Agent Memory · Reinforcement Learning · Long-horizon Agents · Applied AI',
   },
   en: {
     nav: [
@@ -257,7 +257,7 @@ const copy = {
     latinName: '王若楠',
     role: 'Ph.D. Student in Computer Science, Renmin University of China',
     intro:
-      'I study large language models, agent memory and continual learning, autonomous planning and tool use, and apply machine learning and AI in real-world settings.',
+      'I study large language models and reinforcement learning, with a focus on agent memory, continual learning, autonomous planning and tool use, and apply machine learning and AI in real-world settings.',
     location: 'Beijing, China',
     email: 'Email me',
     publicationsButton: 'View publications',
@@ -443,7 +443,7 @@ const copy = {
     footerEmail: 'Send an email',
     footerNote: 'Designed and built around research, systems and real-world impact.',
     status: 'Currently exploring',
-    statusText: 'Agent Memory · Long-horizon Agents · Applied AI',
+    statusText: 'Agent Memory · Reinforcement Learning · Long-horizon Agents · Applied AI',
   },
 } as const;
 
