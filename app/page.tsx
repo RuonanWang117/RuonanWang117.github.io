@@ -69,7 +69,7 @@ const copy = {
     researchLabel: 'Research agenda',
     researchTitle: '从会回答的模型，到能持续工作的智能体',
     researchIntro:
-      '我的研究关注智能体如何形成可积累的记忆、在长程任务中规划与行动，并把研究原型转化为可验证、可部署的系统。',
+      '我的研究关注智能体如何形成可积累的记忆，探索强化学习如何支持长程决策与工具使用，并把研究原型转化为可验证、可部署的系统。',
     research: [
       {
         icon: BrainCircuit,
@@ -80,6 +80,11 @@ const copy = {
         icon: Network,
         title: 'Agent Memory',
         body: '研究情景记忆、语义记忆及持续学习中的检索、压缩与更新机制。',
+      },
+      {
+        icon: GitBranch,
+        title: 'Reinforcement Learning',
+        body: '探索基于反馈的策略优化与序列决策，提升智能体在长程任务中的规划和工具调用能力。',
       },
       {
         icon: Wrench,
@@ -269,7 +274,7 @@ const copy = {
     researchLabel: 'Research agenda',
     researchTitle: 'From models that answer to agents that keep working',
     researchIntro:
-      'My research asks how agents can build durable memory, plan and act over long horizons, and evolve from research prototypes into verifiable, deployable systems.',
+      'My research asks how agents can build durable memory, how reinforcement learning can support long-horizon decisions and tool use, and how these ideas can become verifiable, deployable systems.',
     research: [
       {
         icon: BrainCircuit,
@@ -280,6 +285,11 @@ const copy = {
         icon: Network,
         title: 'Agent Memory',
         body: 'Retrieval, compression and updating mechanisms for episodic, semantic and continual memory.',
+      },
+      {
+        icon: GitBranch,
+        title: 'Reinforcement Learning',
+        body: 'Exploring feedback-driven policy optimization and sequential decision-making for agent planning and tool use over long horizons.',
       },
       {
         icon: Wrench,
